@@ -11,12 +11,11 @@
 
 html,
 body {
-  /* background: linear-gradient(
+  background: linear-gradient(
     -45deg,
     rgba(35, 35, 35, 1) 0%,
     rgba(67, 67, 67, 1) 100%
-  ); */
-  background-color: black;
+  );
 }
 
 .full {
